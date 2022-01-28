@@ -4,6 +4,10 @@
     >>> git clone https://github.com/Kajen5/laravel-prueba.git
     >>> cd laravel-prueba
     >>> ./vendor/bin/sail up
+
+## activar base de datos
+    
+    >>> ./vendor/bin/sail php artisan migrate
  
 
 
