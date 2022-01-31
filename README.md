@@ -3,6 +3,9 @@
 ## ejecutar
     >>> git clone https://github.com/Kajen5/laravel-prueba.git
     >>> cd laravel-prueba
+    >>> composer install
+    >>> composer require laravel/sail --dev
+    >>> php artisan sail:install
     >>> ./vendor/bin/sail up
 
 ## activar base de datos
