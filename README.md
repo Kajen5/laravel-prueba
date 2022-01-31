@@ -12,6 +12,7 @@
    ### Linux
     cp .env.example .env
     
+  ## correr
     php artisan key:generate
     ./vendor/bin/sail up
 
