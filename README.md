@@ -7,9 +7,9 @@
     composer require laravel/sail --dev
     php artisan sail:install
     
-   # Windows
+   ### Windows
     copy .env.example .env
-   # Linux
+   ### Linux
     cp .env.example .env
     
    php artisan key:generate
