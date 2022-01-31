@@ -10,7 +10,7 @@
 
 ## activar base de datos
     
-    >>> ./vendor/bin/sail php artisan migrate
+    ./vendor/bin/sail php artisan migrate
  
 
 
