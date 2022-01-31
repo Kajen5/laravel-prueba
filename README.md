@@ -12,8 +12,7 @@
    ### Linux
     cp .env.example .env
     
-   php artisan key:generate
-   
+    php artisan key:generate
     ./vendor/bin/sail up
 
 ## activar base de datos
