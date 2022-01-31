@@ -1,12 +1,12 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 ## ejecutar
-    >>> git clone https://github.com/Kajen5/laravel-prueba.git
-    >>> cd laravel-prueba
-    >>> composer install
-    >>> composer require laravel/sail --dev
-    >>> php artisan sail:install
-    >>> ./vendor/bin/sail up
+    git clone https://github.com/Kajen5/laravel-prueba.git
+    cd laravel-prueba
+    composer install
+    composer require laravel/sail --dev
+    php artisan sail:install
+    ./vendor/bin/sail up
 
 ## activar base de datos
     
